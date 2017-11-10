@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    height: 300vh;
+    width: 100%;
+    background: linear-gradient(#f00, #ff0, #14ff00, #00f);
+}
+
+footer {
+    background-color: #67005f;
+    height: 100px;
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+    bottom: 0;
+}
